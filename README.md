@@ -2,8 +2,8 @@
 
 
 [Languages] <br>
-Portuguese(BR) Native, fluently. <br>
-English, fluently.<br>
+Portuguese(BR) Native, fluent. <br>
+English, fluent.<br>
 Spanish, intermediate.<br>
 Russian, begginer<br>
 
@@ -11,7 +11,7 @@ Russian, begginer<br>
 [![Who am I?]( <br>
     As I mentioned before, my name is Gabriel Malinski, 18yrs. I'm an elite powerlifter (IPF)and
 student of WEB development and other things. I really like to learn things and skills, so what is more cool than learn logic and programming? <br>
-At this moment, I'm studding RBLX develop, and obviusly now i'ma begginer.
+At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
 )]
 <hr>
 
