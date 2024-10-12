@@ -10,7 +10,7 @@ Russian, begginer<br>
 
 [![Who am I?]( <br>
     As I mentioned before, my name is Gabriel Malinski, 18yrs. I'm an elite powerlifter (IPF)and
-student of WEB development and other things. I really like to learn things and skills, so what is more cool than learn logic and programming? <br>
+student of Software Engeneer, WEB development, languages, etc. I really like to learn things and skills, so what is more cool than learn logic and programming? <br>
 At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
 )]
 <hr>
