@@ -24,11 +24,11 @@ At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
     [![Roblox (2)]()](https://www.roblox.com/users/1871978/profile)
 <hr>
 
-![DEVmalinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinskiDEV&show_icons=true&theme=dark)
+![DEVmalinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinskiDEV&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <hr>
 
 ## Technologies which I study! :) <br>
