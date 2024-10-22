@@ -3,7 +3,7 @@
 
 [Languages] <br>
 Portuguese(BR) Native, fluent. <br>
-English, fluent.<br>
+English, conversation.<br>
 Spanish, intermediate.<br>
 Russian, begginer<br>
 
