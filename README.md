@@ -1,18 +1,17 @@
 ## Hi there! I'm Gabriel Malinski aka DEVmalinski! 🛠️
 
 
-[Languages] <br>
+Languages <br>
 Portuguese(BR) Native, fluent. <br>
 English, conversation.<br>
 Spanish, intermediate.<br>
 Russian, begginer<br>
 
 
-[![Who am I?]( <br>
+Who am I? <br>
     As I mentioned before, my name is Gabriel Malinski, 18yrs. I'm an elite powerlifter (IPF)and
 student of Software Engeneer, WEB development, languages, etc. I really like to learn things and skills, so what is more cool than learn logic and programming? <br>
 At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
-)]
 <hr>
 
 ![LINKS] <br> <br>
