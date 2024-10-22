@@ -14,6 +14,8 @@ student of Software Engeneer, WEB development, languages, etc. I really like to 
 At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
 <hr>
 
+![DEVmalinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinskiDEV&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ![LINKS] <br> <br>
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mega_malinski/)
     [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/malinskiwa/)
@@ -23,7 +25,7 @@ At this moment, I'm studding RBLX develop, and obviously now i'ma begginer.
     [![Roblox (2)]()](https://www.roblox.com/users/1871978/profile)
 <hr>
 
-![DEVmalinski's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinskiDEV&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 
 
